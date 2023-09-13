@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashbeersingh
-- 👀 I’m interested in loner programming with problem solving development skills
-- 🌱 I’m currently learning Dev Ops and mern stack(update-React already down )
-- 💞️ I’m looking to collaborate on team projects on above technologies
+- 👀 I’m interested in dynamic programming with problem-solving development skills
+- 🌱 I’m currently learning Dev Ops and mern stack
+- 💞️ I’m looking to collaborate on team projects on the above technologies
 - 📫 How to reach me at arjunsinghy157@gmail.com
 
 <!---
